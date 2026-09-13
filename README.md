@@ -29,10 +29,7 @@ This repository documents my hands-on journey engineering core **Transformer arc
 
 ## 🎓 Coursework
 ---
-Alongside the from-scratch work above, this repo also holds completed labs from **[MIT 6.S191 — Introduction to Deep Learning](http://introtodeeplearning.com)**, annotated with my own study notes as I worked through them. Original lab scaffolding and solution code are MIT's — the copyright header in each notebook is kept intact, and the `📝 My notes` cells throughout are my own annotations.
-
-- [`1_Music_Generation.ipynb`](./1_Music_Generation.ipynb) — Lab 1, Part 2: character-level RNNs/LSTMs, autoregressive sequence generation, applied to ABC-notation music
-- [`2_LLM_Finetuning.ipynb`](./2_LLM_Finetuning.ipynb) — Lab 3: prompt templating, tokenization, LoRA parameter-efficient fine-tuning, LLM-as-a-judge evaluation
+[`1_Music_Generation.ipynb`](./1_Music_Generation.ipynb) and [`2_LLM_Finetuning.ipynb`](./2_LLM_Finetuning.ipynb) are completed MIT 6.S191 labs (copyright header kept intact in each) with my own notes added throughout.
 
 <br>
 
