@@ -13,7 +13,7 @@
 
 ## 📖 About This Repository
 ---
-This repository documents my hands-on journey engineering core **Transformer architectures** and **Large Language Models (LLMs)** entirely from the ground up. Bridging theoretical concepts from advanced Stanford and MIT machine learning lectures with practical, applied engineering, this space serves as a deep dive into the math and code powering modern generative AI. 
+This repository documents my hands-on journey engineering core **Transformer architectures** and **Large Language Models (LLMs)** entirely from the ground up. Bridging theoretical concepts from Carnegie Mellon University (CMU) curriculum along with advanced Stanford and MIT machine learning lecture using practical, applied engineering, this space serves as a deep dive into the math and code powering modern generative AI. 
 
 <br>
 
