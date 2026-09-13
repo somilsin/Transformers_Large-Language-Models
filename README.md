@@ -27,6 +27,12 @@ This repository documents my hands-on journey engineering core **Transformer arc
 
 <br>
 
+## 🎓 Coursework
+---
+Alongside the from-scratch work above, this repo also holds completed labs from **[MIT 6.S191 — Introduction to Deep Learning](http://introtodeeplearning.com)**, annotated with my own study notes as I worked through them. Original lab scaffolding and solution code are MIT's; see [`coursework/mit-6s191/`](./coursework/mit-6s191) for the full attribution and notebooks (LSTM-based music generation, LoRA fine-tuning + LLM-as-a-judge evaluation).
+
+<br>
+
 ## 🛠️ Tech Stack
 ---
 <p>
