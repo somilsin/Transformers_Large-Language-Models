@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🧠 Transformers & LLMs From Scratch</h1>
-  <h3><code>Stanford & MIT Applied Machine Learning</code></h3>
+  <h3><code>Stanford Applied Machine Learning</code></h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
@@ -13,7 +13,7 @@
 
 ## 📖 About This Repository
 ---
-This repository documents my hands-on journey engineering core **Transformer architectures** and **Large Language Models (LLMs)** entirely from the ground up. Bridging theoretical concepts from advanced Stanford and MIT machine learning lectures with practical, applied engineering, this space serves as a deep dive into the math and code powering modern generative AI. 
+This repository documents my hands-on journey engineering core **Transformer architectures** and **Large Language Models (LLMs)** entirely from the ground up. Bridging theoretical concepts from advanced Stanford machine learning lectures with practical, applied engineering, this space serves as a deep dive into the math and code powering modern generative AI. 
 
 <br>
 
@@ -29,7 +29,7 @@ This repository documents my hands-on journey engineering core **Transformer arc
 
 ## 🎓 Coursework
 ---
-[`1_Music_Generation.ipynb`](./1_Music_Generation.ipynb) and [`2_LLM_Finetuning.ipynb`](./2_LLM_Finetuning.ipynb) are completed MIT 6.S191 labs (copyright header kept intact in each) with my own notes added throughout.
+[`1_Music_Generation.ipynb`](./1_Music_Generation.ipynb) and [`2_LLM_Finetuning.ipynb`](./2_LLM_Finetuning.ipynb) contain notes I made wherever deemed fit about my understanding after going through the lectures.
 
 <br>
 
@@ -50,10 +50,10 @@ To run these notebooks and scripts locally, clone the repository and install the
 
 ```bash
 # Clone the repository
-git clone [https://github.com/somilsin/Stanford-MIT-Machine-Learning-Transformers-LLMs.git](https://github.com/somilsin/Stanford-MIT-Machine-Learning-Transformers-LLMs.git)
+git clone [https://github.com/somilsin/Stanford-Machine-Learning-Transformers-LLMs.git](https://github.com/somilsin/Stanford-Machine-Learning-Transformers-LLMs.git)
 
 # Navigate into the directory
-cd Stanford-MIT-Machine-Learning-Transformers-LLMs
+cd Stanford-Machine-Learning-Transformers-LLMs
 
 # Install dependencies
 pip install -r requirements.txt
