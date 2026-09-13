@@ -51,7 +51,7 @@ To run these notebooks and scripts locally, clone the repository and install the
 
 ```bash
 # Clone the repository
-git clone [https://github.com/somilsin/Stanford-MIT-Machine-Learning-Transformers-LLMs.git](https://github.com/somilsin/Stanford-MIT-Machine-Learning-Transformers-LLMs.git)
+git clone https://github.com/somilsin/Stanford-MIT-Machine-Learning-Transformers-LLMs.git
 
 # Navigate into the directory
 cd Stanford-MIT-Machine-Learning-Transformers-LLMs
