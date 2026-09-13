@@ -56,5 +56,5 @@ git clone https://github.com/somilsin/Stanford-MIT-Machine-Learning-Transformers
 # Navigate into the directory
 cd Stanford-MIT-Machine-Learning-Transformers-LLMs
 
-# Install dependencies
+# Install dependencies (mentioned inside ipynb)
 pip install -r requirements.txt   
