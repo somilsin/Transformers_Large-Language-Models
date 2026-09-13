@@ -29,8 +29,8 @@ This repository documents my hands-on journey engineering core **Transformer arc
 
 ## 🎓 Coursework
 ---
-- **[`1_Music_Generation.ipynb`](./1_Music_Generation.ipynb):** Character-level RNN/LSTM for generating ABC-notation music, with my own notes added throughout.
-- **[`2_LLM_Finetuning.ipynb`](./2_LLM_Finetuning.ipynb):** LoRA fine-tuning and LLM-as-a-judge evaluation of a chat model, with my own notes added throughout.
+- **[`1_Music_Generation.ipynb`](./1_Music_Generation.ipynb):** Character-level RNN/LSTM for generating ABC-notation music
+- **[`2_LLM_Finetuning.ipynb`](./2_LLM_Finetuning.ipynb):** LoRA fine-tuning and LLM-as-a-judge evaluation of a chat model
 
 <br>
 
